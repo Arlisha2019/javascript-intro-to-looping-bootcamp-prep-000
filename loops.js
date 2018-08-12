@@ -19,6 +19,6 @@ function whileLoop(n) {
 function doWhileLoop(array) {
   do {
     console.log()
-    incrementVariable(array.length > 0 && incrementVariable())
+    incrementVariable();
   }
-} while ()
+} while (array.length > 0 && incrementVariable())
