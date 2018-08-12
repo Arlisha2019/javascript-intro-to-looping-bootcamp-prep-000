@@ -17,5 +17,8 @@ function whileLoop(n) {
  }
 
 function doWhileLoop(array) {
-  
+  do {
+    console.log()
+    
+  }
 } while ()
