@@ -20,5 +20,6 @@ function doWhileLoop(array) {
 }
   do {
     array.shift();
-    --array;
+    array--;
   } while (array.length > 0 && incrementVariable());
+  
